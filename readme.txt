@@ -1,3 +1,3 @@
 Git is distributed version control system.
 Git is free software distrbuted under the GPL.
---wizard
+Git has mutable index called stage.
